@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="facebook_app_id">367066477188245</string>
+    <string name="fb_login_protocol_scheme">fb367066477188245</string>
+
+    <string name="hello">Hello</string>
+    <string name="logout_button">Logout</string>
+</resources>
